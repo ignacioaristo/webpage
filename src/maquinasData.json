@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "modelo": "L60F",
+    "pesoOperativo": "11,0–12,3 t",
+    "potenciaNeta": "115 kW (158 hp)",
+    "capacidadBalde": "1,7 – 5,0 m3"
+  },
+  {
+    "id": 2,
+    "modelo": "L70F",
+    "pesoOperativo": "12,7–14,0 t",
+    "potenciaNeta": "126 kW (171 hp)",
+    "capacidadBalde": "2,0 – 6,4 m3"
+  },
+  {
+    "id": 3,
+    "modelo": "L90F",
+    "pesoOperativo": "15,0–17,0 t",
+    "potenciaNeta": "129 kW (175 hp)",
+    "capacidadBalde": "2,3 – 7,0 m3"
+  }
+]

@@ -1,0 +1,22 @@
+.home-body {
+  width: 70%;
+  margin: auto;
+}
+
+.list-title {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.list-title-each {
+  font-weight: bold;
+}
+
+.componente {
+  padding: 5px;
+  margin: 0;
+}
+.componente:hover {
+  background: lightgrey;
+}

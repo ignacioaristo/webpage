@@ -1,0 +1,49 @@
+.header-image {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.header-right-right {
+  display: flex;
+  position: absolute;
+  right: 10px;
+}
+
+.header-image-each {
+  padding: 5px;
+}
+
+.navbar-style {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+
+.navbar-list {
+  color: #343434;
+  padding: 10px 5px 10px 5px;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navbar-list:hover {
+  background: #343434;
+  color: white;
+  text-decoration: none;
+}
+
+.list-item {
+  text-decoration: none;
+  width: 50%;
+  color: #343434;
+}
+
+.list-item:hover {
+  text-decoration: none;
+  padding: 10px 15px 10px 15px;
+  color: white;
+}
