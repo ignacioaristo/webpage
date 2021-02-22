@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ignacioaristo/webpage/static/css/main.68c20fe1.chunk.css",
+    "main.js": "/ignacioaristo/webpage/static/js/main.71c3e3db.chunk.js",
+    "main.js.map": "/ignacioaristo/webpage/static/js/main.71c3e3db.chunk.js.map",
+    "runtime-main.js": "/ignacioaristo/webpage/static/js/runtime-main.0b8ae942.js",
+    "runtime-main.js.map": "/ignacioaristo/webpage/static/js/runtime-main.0b8ae942.js.map",
+    "static/js/2.40b4a298.chunk.js": "/ignacioaristo/webpage/static/js/2.40b4a298.chunk.js",
+    "static/js/2.40b4a298.chunk.js.map": "/ignacioaristo/webpage/static/js/2.40b4a298.chunk.js.map",
+    "index.html": "/ignacioaristo/webpage/index.html",
+    "precache-manifest.65ae5dac9cd502585346e602b2fba2d9.js": "/ignacioaristo/webpage/precache-manifest.65ae5dac9cd502585346e602b2fba2d9.js",
+    "service-worker.js": "/ignacioaristo/webpage/service-worker.js",
+    "static/css/main.68c20fe1.chunk.css.map": "/ignacioaristo/webpage/static/css/main.68c20fe1.chunk.css.map",
+    "static/js/2.40b4a298.chunk.js.LICENSE.txt": "/ignacioaristo/webpage/static/js/2.40b4a298.chunk.js.LICENSE.txt",
+    "static/media/Camiones.jpg": "/ignacioaristo/webpage/static/media/Camiones.f6294b21.jpg",
+    "static/media/Cargadora.jpg": "/ignacioaristo/webpage/static/media/Cargadora.42487c8f.jpg",
+    "static/media/Compactador.jpg": "/ignacioaristo/webpage/static/media/Compactador.7900b169.jpg",
+    "static/media/CompactadorAsfalto.jpg": "/ignacioaristo/webpage/static/media/CompactadorAsfalto.38517d57.jpg",
+    "static/media/ImagenAlquileres.jpg": "/ignacioaristo/webpage/static/media/ImagenAlquileres.cb9ca0b6.jpg",
+    "static/media/Motoniveladora.jpg": "/ignacioaristo/webpage/static/media/Motoniveladora.0a8a077d.jpg",
+    "static/media/Motor.jpg": "/ignacioaristo/webpage/static/media/Motor.6242a6b7.jpg",
+    "static/media/PM.jpg": "/ignacioaristo/webpage/static/media/PM.8237edf1.jpg",
+    "static/media/Palaretro.jpg": "/ignacioaristo/webpage/static/media/Palaretro.8884681d.jpg",
+    "static/media/Tendedoras.jpg": "/ignacioaristo/webpage/static/media/Tendedoras.1e812139.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b8ae942.js",
+    "static/js/2.40b4a298.chunk.js",
+    "static/css/main.68c20fe1.chunk.css",
+    "static/js/main.71c3e3db.chunk.js"
+  ]
+}
