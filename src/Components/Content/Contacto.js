@@ -18,7 +18,7 @@ const Contacto = () => {
     });
   };
 
-  const handleSubmit = () => {
+  const handleSubmit = (event) => {
     event.preventDefault();
     console.log(data);
     alert(
